@@ -1,7 +1,7 @@
 <header>
   <nav class="navbar navbar-dark bg-dark">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#"><i class="fa-solid fa-code fa-flip" style="--fa-animation-duration: 3s;"></i></i></a>
+      <a class="navbar-brand" href="#"><i class="fa-solid fa-code fa-flip" style="--fa-animation-duration: 3s;"></i></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar">
         <span class="navbar-toggler-icon"></span>
       </button>
